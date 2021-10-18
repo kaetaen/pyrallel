@@ -1,3 +1,5 @@
+#! /usr/bin/python3
+
 with open("./input.py") as file, open("./output.py", "+a") as output:
     
     for line in file:
